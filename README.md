@@ -41,6 +41,6 @@ int main() {
 - Does not support floating-point formatting (`%f`, `%e`, `%g`)
 - Limited error handling for incorrect format specifiers
 
-## License
-This project is open-source and available for educational purposes.
+## Author
+Written by Huyuan Ai during the 42 Berlin Curriculum
 
