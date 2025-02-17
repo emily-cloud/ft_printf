@@ -34,7 +34,6 @@ int main() {
 ## Project Structure
 - `ft_printf.h` – Header file containing function prototypes and macros
 - `ft_printf.c` – Main implementation of `ft_printf`
-- `utils.c` – Utility functions for formatting and conversion
 - `Makefile` – Compilation script for building the library
 
 ## Limitations
